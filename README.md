@@ -5,7 +5,7 @@ this is a demo.
 
 To use cdn of jsdelivr.
 
-https://cdn.jsdelivr.net/gh/IceSeclude/demo/src/script/simpleMemory.min.js
+https://cdn.jsdelivr.net/gh/myservant/simple/src/script/simpleMemory.min.js
 
 
 用法
